@@ -3,10 +3,11 @@
 - 本项目持续更新一系列的可视化示例，所有示例均基于 Python 生态（如 Matplotlib、Seaborn、Geopandas）实现，适用于数据分析和地理信息科学（GIS）相关领域。
 
 # 📖 目录
+
 - [📌 当前可视化示例](#📌-当前可视化示例)
-  - [1. cluster_gram](#cluster_gramipynb)
-  - [2. scatter_regplot](#scatter_regplotipynb)
-  - [3. urban_grammar](#urban_grammaripynb)
+  - [1. cluster_gram](##cluster_gramipynb)
+  - [2. scatter_regplot](##scatter_regplotipynb)
+  - [3. urban_grammar](##urban_grammaripynb)
 - [🚀 持续更新](#🚀-持续更新)
 
 # 📌 当前可视化示例
