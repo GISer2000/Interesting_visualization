@@ -4,9 +4,9 @@
 
 # 📖 目录
 - [📌 当前可视化示例](#-当前可视化示例)
-  - [1. cluster_gram](##1-cluster_gram.ipynb)
-  - [2. scatter_regplot](##2-scatter_regplot.ipynb)
-  - [3. urban_grammar](##3-urban_grammar.ipynb)
+  - [1. cluster_gram](##1-cluster-gram.ipynb)
+  - [2. scatter_regplot](##2-scatter-regplot.ipynb)
+  - [3. urban_grammar](##3-urban-grammar.ipynb)
 - [🚀 持续更新](#-持续更新)
 
 # 📌 当前可视化示例
