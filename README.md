@@ -8,6 +8,7 @@
   - [1. cluster_gram](#cluster_gramipynb)
   - [2. scatter_regplot](#scatter_regplotipynb)
   - [3. urban_grammar](#urban_grammaripynb)
+  - [4. scatter_kde](#scatter_kdeipynb)
 - [🚀持续更新](#持续更新)
 
 # 📌当前可视化示例
@@ -17,12 +18,17 @@
 <center><img src="fig/cluster_gram.png"></center> 
 
 ## scatter_regplot.ipynb
-- 结合散点图与回归曲线，揭示变量间的相关性
+- 结合散点图与回归曲线
 <center><img src="fig/scatter_regplot.png"></center> 
 
 ## urban_grammar.ipynb
 - 空间数据的配色方案
 <center><img src="fig/urban_grammar.png"></center>
+
+## scatter_kde.ipynb
+- 带有KDE估算的散点图
+<center><img src="fig/scatter_kde1.png"></center>
+<center><img src="fig/scatter_kde2.png"></center>
 
 # 🚀持续更新
 
