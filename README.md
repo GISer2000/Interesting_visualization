@@ -9,6 +9,7 @@
   - [2. scatter_regplot](#scatter_regplotipynb)
   - [3. urban_grammar](#urban_grammaripynb)
   - [4. scatter_kde](#scatter_kdeipynb)
+  - [5. regression_comparison](#regression_comparisonipynb)
 - [🚀持续更新](#持续更新)
 
 # 📌当前可视化示例
@@ -29,6 +30,10 @@
 - 带有KDE估算的散点图
 <center><img src="fig/scatter_kde1.png"></center>
 <center><img src="fig/scatter_kde2.png"></center>
+
+## regression_comparison.ipynb
+- 可视化回归模型的拟合效果
+<center><img src="fig/regression_comparison.png"></center>
 
 # 🚀持续更新
 
