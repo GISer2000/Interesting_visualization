@@ -10,6 +10,7 @@
   - [3. urban_grammar](#urban_grammaripynb)
   - [4. scatter_kde](#scatter_kdeipynb)
   - [5. regression_comparison](#regression_comparisonipynb)
+  - [6. scatter_regplot_annotation](#scatter_regplot_annotationipynb)
 - [🚀持续更新](#持续更新)
 
 # 📌当前可视化示例
@@ -34,6 +35,10 @@
 ## regression_comparison.ipynb
 - 可视化回归模型的拟合效果
 <center><img src="fig/regression_comparison.png"></center>
+
+## scatter_regplot_annotation.ipynb
+- 可视化散点图与回归曲线，并做图例调整
+<center><img src="fig/scatter_regplot_annotation.png"></center>
 
 # 🚀持续更新
 
