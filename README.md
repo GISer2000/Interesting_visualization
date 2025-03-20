@@ -11,6 +11,7 @@
   - [4. scatter_kde](#scatter_kdeipynb)
   - [5. regression_comparison](#regression_comparisonipynb)
   - [6. scatter_regplot_annotation](#scatter_regplot_annotationipynb)
+  - [7. scatter_style1](#scatter_style1ipynb)
 - [🚀持续更新](#持续更新)
 
 # 📌当前可视化示例
@@ -39,6 +40,10 @@
 ## scatter_regplot_annotation.ipynb
 - 可视化散点图与回归曲线，并做图例调整
 <center><img src="fig/scatter_regplot_annotation.png"></center>
+
+## scatter_style1.ipynb
+- 两个散点图堆叠在一起，视觉冲击感强
+<center><img src="fig/scatter_style1.png"></center>
 
 # 🚀持续更新
 
