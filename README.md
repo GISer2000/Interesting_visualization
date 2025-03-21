@@ -13,6 +13,7 @@
   - [6. scatter_regplot_annotation](#scatter_regplot_annotationipynb)
   - [7. scatter_style1](#scatter_style1ipynb)
   - [8. global_temperature](#global_temperatureipynb)
+  - [9. bar_line_twin](#bar_line_twinipynb)
 - [🚀持续更新](#持续更新)
 
 # 📌当前可视化示例
@@ -49,6 +50,10 @@
 ## global_temperature.ipynb
 - 全球尺度的温度地图，底部放置了指定区域的辐射强度
 <center><img src="fig/global_temperature.png"></center>
+
+## bar_line_twin.ipynb
+- 柱状图和折线图的叠加，使用双y坐标轴
+<center><img src="fig/bar_line_twin.png"></center>
 
 # 🚀持续更新
 
