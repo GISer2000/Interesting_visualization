@@ -12,6 +12,7 @@
   - [5. regression_comparison](#regression_comparisonipynb)
   - [6. scatter_regplot_annotation](#scatter_regplot_annotationipynb)
   - [7. scatter_style1](#scatter_style1ipynb)
+  - [8. global_temperature](#global_temperatureipynb)
 - [🚀持续更新](#持续更新)
 
 # 📌当前可视化示例
@@ -44,6 +45,10 @@
 ## scatter_style1.ipynb
 - 两个散点图堆叠在一起，视觉冲击感强
 <center><img src="fig/scatter_style1.png"></center>
+
+## global_temperature.ipynb
+- 全球尺度的温度地图，底部放置了指定区域的辐射强度
+<center><img src="fig/global_temperature.png"></center>
 
 # 🚀持续更新
 
