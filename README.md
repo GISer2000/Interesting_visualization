@@ -14,6 +14,7 @@
   - [7. scatter_style1](#scatter_style1ipynb)
   - [8. global_temperature](#global_temperatureipynb)
   - [9. bar_line_twin](#bar_line_twinipynb)
+  - [10. bivariat_map](#bivariat_mapipynb)
 - [🚀持续更新](#持续更新)
 
 # 📌当前可视化示例
@@ -54,6 +55,10 @@
 ## bar_line_twin.ipynb
 - 柱状图和折线图的叠加，使用双y坐标轴
 <center><img src="fig/bar_line_twin.png"></center>
+
+## bivariat_map.ipynb
+- 双变量变化的地图可视化
+<center><img src="fig/bivariat_map.png"></center>
 
 # 🚀持续更新
 
