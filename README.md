@@ -15,6 +15,7 @@
   - [8. global_temperature](#global_temperatureipynb)
   - [9. bar_line_twin](#bar_line_twinipynb)
   - [10. bivariat_map](#bivariat_mapipynb)
+  - [11. diverging_bar](#diverging_baripynb)
 - [🚀持续更新](#持续更新)
 
 # 📌当前可视化示例
@@ -59,6 +60,10 @@
 ## bivariat_map.ipynb
 - 双变量变化的地图可视化
 <center><img src="fig/bivariat_map.png"></center>
+
+## diverging_bar.ipynb
+- 双向柱状图，并添加对应散点
+<center><img src="fig/diverging_bar.png"></center>
 
 # 🚀持续更新
 
