@@ -17,6 +17,7 @@
   - [10. bivariat_map](#bivariat_mapipynb)
   - [11. diverging_bar](#diverging_baripynb)
   - [12. stacked_bar](#stacked_baripynb)
+  - [13. polar_bar](#polar_baripynb)
 - [🚀持续更新](#持续更新)
 
 # 📌当前可视化示例
@@ -69,6 +70,10 @@
 ## stacked_bar.ipynb
 - 堆叠柱状图
 <center><img src="fig/stacked_bar.png"></center>
+
+## polar_bar.ipynb
+- 极坐标形式的柱状图
+<center><img src="fig/polar_bar.png"></center>
 
 
 # 🚀持续更新
