@@ -16,6 +16,7 @@
   - [9. bar_line_twin](#bar_line_twinipynb)
   - [10. bivariat_map](#bivariat_mapipynb)
   - [11. diverging_bar](#diverging_baripynb)
+  - [12. stacked_bar](#stacked_baripynb)
 - [🚀持续更新](#持续更新)
 
 # 📌当前可视化示例
@@ -64,6 +65,11 @@
 ## diverging_bar.ipynb
 - 双向柱状图，并添加对应散点
 <center><img src="fig/diverging_bar.png"></center>
+
+## stacked_bar.ipynb
+- 堆叠柱状图
+<center><img src="fig/stacked_bar.png"></center>
+
 
 # 🚀持续更新
 
