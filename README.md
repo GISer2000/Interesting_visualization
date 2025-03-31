@@ -2,6 +2,8 @@
 
 - 本项目持续更新一系列的可视化示例，所有示例均基于 Python 生态（如 Matplotlib、Seaborn、Geopandas）实现，适用于数据分析和地理信息科学（GIS）相关领域。
 
+- 前面几个示例做了函数封装，但感觉封装之后不太好做自定义调整，索性后面的示例就按照边填代码边可视化的形式出图。
+
 # 📖 目录
 
 - [📌当前可视化示例](#当前可视化示例)
@@ -18,6 +20,7 @@
   - [11. diverging_bar](#diverging_baripynb)
   - [12. stacked_bar](#stacked_baripynb)
   - [13. polar_bar](#polar_baripynb)
+  - [14. polar_bar1](#polar_bar1ipynb)
 - [🚀持续更新](#持续更新)
 
 # 📌当前可视化示例
@@ -74,6 +77,10 @@
 ## polar_bar.ipynb
 - 极坐标形式的柱状图
 <center><img src="fig/polar_bar.png"></center>
+
+## polar_bar1.ipynb
+- 极坐标形式的柱状图
+<center><img src="fig/polar_bar1.png"></center>
 
 
 # 🚀持续更新
