@@ -21,6 +21,8 @@
   - [12. stacked_bar](#stacked_baripynb)
   - [13. polar_bar](#polar_baripynb)
   - [14. polar_bar1](#polar_bar1ipynb)
+  - [15. bar_wordcloud](#bar_wordcloudipynb)
+  
 - [🚀持续更新](#持续更新)
 
 # 📌当前可视化示例
@@ -82,6 +84,9 @@
 - 极坐标形式的柱状图
 <center><img src="fig/polar_bar1.png"></center>
 
+## bar_wordcloud.ipynb
+- 极坐标形式的柱状图和词云图的组合
+<center><img src="fig/bar_wordcloud.png"></center>
 
 # 🚀持续更新
 
