@@ -23,6 +23,7 @@
   - [14. polar_bar1](#polar_bar1ipynb)
   - [15. bar_wordcloud](#bar_wordcloudipynb)
   - [16. polar_line_scatter](#polar_line_scatteripynb)
+  - [17. ternary_map](#ternary_mapipynb)
   
 - [🚀持续更新](#持续更新)
 
@@ -92,6 +93,10 @@
 ## polar_line_scatter.ipynb
 - 极坐标形式的折线/散点图组合
 <center><img src="fig/polar_line_scatter.png"></center>
+
+## ternary_map.ipynb
+- 三元相统计地图
+<center><img src="fig/ternary_map.png"></center>
 
 # 🚀持续更新
 
