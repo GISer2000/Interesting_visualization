@@ -24,6 +24,7 @@
   - [15. bar_wordcloud](#bar_wordcloudipynb)
   - [16. polar_line_scatter](#polar_line_scatteripynb)
   - [17. ternary_map](#ternary_mapipynb)
+  - [18. global_temperature1](#global_temperature1ipynb)
   
 - [🚀持续更新](#持续更新)
 
@@ -97,6 +98,10 @@
 ## ternary_map.ipynb
 - 三元相统计地图
 <center><img src="fig/ternary_map.png"></center>
+
+## global_temperature1.ipynb
+- 全球尺度的温度地图，上/右分别为经纬度上的均值
+<center><img src="fig/global_temperature1.png"></center>
 
 # 🚀持续更新
 
