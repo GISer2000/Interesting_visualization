@@ -25,6 +25,7 @@
   - [16. polar_line_scatter](#polar_line_scatteripynb)
   - [17. ternary_map](#ternary_mapipynb)
   - [18. global_temperature1](#global_temperature1ipynb)
+  - [19. time_map](#time_mapipynb)
   
 - [🚀持续更新](#持续更新)
 
@@ -102,6 +103,10 @@
 ## global_temperature1.ipynb
 - 全球尺度的温度地图，上/右分别为经纬度上的均值
 <center><img src="fig/global_temperature1.png"></center>
+
+## time_map.ipynb
+- 时空堆叠地图
+<center><img src="fig/time_map.png"></center>
 
 # 🚀持续更新
 
